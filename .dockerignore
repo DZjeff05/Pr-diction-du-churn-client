@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Documentation
+*.md
+README.md
+
+# Notebooks (non nécessaires pour l'API)
+notebook_for_ML/
+*.ipynb
+
+# Données (si trop volumineuses)
+data/
+*.csv
+
+# Autres
+.DS_Store
+*.log
+
